@@ -4,7 +4,7 @@ const app = express();
  
 // Define your routes
 app.get('/', (req, res) => {
-  res.json({ message: 'Hello from Express on Vercel!' });
+  res.json({ message: 'Hello from Bandung!' });
 });
  
 // Export the Express app
